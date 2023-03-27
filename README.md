@@ -1,4 +1,4 @@
-# customer_behaviour
+# customer_behavior
 This analysis is based on a dataset containing the age, gender and annual salary of people interested in buying in car and whether or not they bought the car. 
 The data is used to train a model to help predict if future customers will buy the car or not. The model trained can be used to predicted whether or not someone 
 will purchase a car based on their age and annual salary. This can be useful in a number of ways. For example, a car dealership can use this model to predict whether
